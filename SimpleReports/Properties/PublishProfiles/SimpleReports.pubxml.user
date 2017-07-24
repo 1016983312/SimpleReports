@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/css/login.css">
+      <publishTime>05/15/2017 08:49:42</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/calendar.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/lang/en.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/lang/zh-cn.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/lang/zh-tw.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/datePicker.gif">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/default/datepicker.css">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/default/img.gif">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/WdatePicker.css">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/whyGreen/bg.jpg">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/whyGreen/datepicker.css">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/skin/whyGreen/img.gif">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/WdatePicker.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/lang/en.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/lang/zh-cn.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/lang/zh-tw.js">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/readme.txt">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/datePicker.gif">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/default/datepicker.css">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/default/img.gif">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/WdatePicker.css">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/whyGreen/bg.jpg">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/whyGreen/datepicker.css">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="assets/js/My97DatePicker/¿ª·¢°ü/skin/whyGreen/img.gif">
+      <publishTime>02/22/2017 15:51:43</publishTime>
+    </File>
+    <File Include="bin/SimpleReports.dll">
+      <publishTime>07/24/2017 09:36:01</publishTime>
+    </File>
+    <File Include="bin/SimpleReports.pdb">
+      <publishTime>07/24/2017 09:36:01</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>04/07/2017 17:37:41</publishTime>
+    </File>
+    <File Include="internalpart/InterfaceLog.aspx">
+      <publishTime>07/03/2017 23:51:15</publishTime>
+    </File>
+    <File Include="internalpart/ReportSet.aspx">
+      <publishTime>05/15/2017 11:53:43</publishTime>
+    </File>
+    <File Include="internalpart/ReportSimpleStocktransactionClient.aspx">
+      <publishTime>07/24/2017 09:18:06</publishTime>
+    </File>
+    <File Include="internalpart/ReportSimpleVendingChnStockClient.aspx">
+      <publishTime>07/14/2017 15:18:10</publishTime>
+    </File>
+    <File Include="internalpart/VendingBasicInfo.aspx">
+      <publishTime>06/12/2017 10:32:26</publishTime>
+    </File>
+    <File Include="internalpart/VendingLastStockTransaction.aspx">
+      <publishTime>06/30/2017 23:44:10</publishTime>
+    </File>
+    <File Include="Login/Login.aspx">
+      <publishTime>05/15/2017 08:57:14</publishTime>
+    </File>
+    <File Include="thirdpart/dsklbMonthlyReport.aspx">
+      <publishTime>06/14/2017 15:32:35</publishTime>
+    </File>
+    <File Include="thirdpart/monthlyReportForWarehouse.aspx">
+      <publishTime>04/25/2017 17:20:57</publishTime>
+    </File>
+    <File Include="thirdpart/mydgCusUsageSummary.aspx">
+      <publishTime>05/12/2017 11:56:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/24/2017 09:37:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
